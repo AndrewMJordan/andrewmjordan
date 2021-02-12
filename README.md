@@ -1,3 +1,4 @@
-### Welcome
+[![Banner][1]][2]
 
-![feature](images/feature-image.png)
+[1]:  images/banner.png	"Banner"
+[2]:  andrewmichaeljordan.com "Homepage"
